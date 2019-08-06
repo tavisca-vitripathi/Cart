@@ -6,21 +6,24 @@ namespace CArt
 {
    public class CartItem
     {
-        public readonly Product _Product;
+        public readonly Product Product;
 
-        public  int _Quantity { get; set; }
+        public  int Quantity { get; set; }
 
 
         public CartItem(Product product, int quantity)
         {
-            this._Product = product;
-            this._Quantity = quantity;
+            this.Product = product;
+            this.Quantity = quantity;
         }
 
 
-        public int GetPrice()
+        public int Price
         {
-            return this._Quantity*_Product.Price;
+            get
+            {
+                return this.Quantity * Product.Price;
+            }
         }
 
 

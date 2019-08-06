@@ -16,7 +16,7 @@ namespace CArt
             set
             {
                 if (value < 0)
-                    throw new InValidPrice("MyProperty has a maximum length of 100.");
+                    throw new InValidPrice("Not a valid Price");
 
                 _price = value;
             }

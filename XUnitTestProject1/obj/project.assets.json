@@ -5864,11 +5864,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vitripathi\\source\\repos\\CArt\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\vitripathi\\Desktop\\cart\\Cart\\XUnitTestProject1\\XUnitTestProject1.csproj",
       "projectName": "XUnitTestProject1",
-      "projectPath": "C:\\Users\\vitripathi\\source\\repos\\CArt\\XUnitTestProject1\\XUnitTestProject1.csproj",
+      "projectPath": "C:\\Users\\vitripathi\\Desktop\\cart\\Cart\\XUnitTestProject1\\XUnitTestProject1.csproj",
       "packagesPath": "C:\\Users\\vitripathi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vitripathi\\source\\repos\\CArt\\XUnitTestProject1\\obj\\",
+      "outputPath": "C:\\Users\\vitripathi\\Desktop\\cart\\Cart\\XUnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5887,8 +5887,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\vitripathi\\source\\repos\\CArt\\CArt\\CArt.csproj": {
-              "projectPath": "C:\\Users\\vitripathi\\source\\repos\\CArt\\CArt\\CArt.csproj"
+            "C:\\Users\\vitripathi\\Desktop\\cart\\Cart\\CArt\\CArt.csproj": {
+              "projectPath": "C:\\Users\\vitripathi\\Desktop\\cart\\Cart\\CArt\\CArt.csproj"
             }
           }
         }
