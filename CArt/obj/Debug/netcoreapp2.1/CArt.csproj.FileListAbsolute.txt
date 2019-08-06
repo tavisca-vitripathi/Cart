@@ -1,0 +1,11 @@
+C:\Users\vitripathi\source\repos\CArt\CArt\bin\Debug\netcoreapp2.1\CArt.deps.json
+C:\Users\vitripathi\source\repos\CArt\CArt\bin\Debug\netcoreapp2.1\CArt.runtimeconfig.json
+C:\Users\vitripathi\source\repos\CArt\CArt\bin\Debug\netcoreapp2.1\CArt.runtimeconfig.dev.json
+C:\Users\vitripathi\source\repos\CArt\CArt\bin\Debug\netcoreapp2.1\CArt.dll
+C:\Users\vitripathi\source\repos\CArt\CArt\bin\Debug\netcoreapp2.1\CArt.pdb
+C:\Users\vitripathi\source\repos\CArt\CArt\obj\Debug\netcoreapp2.1\CArt.csproj.CoreCompileInputs.cache
+C:\Users\vitripathi\source\repos\CArt\CArt\obj\Debug\netcoreapp2.1\CArt.AssemblyInfoInputs.cache
+C:\Users\vitripathi\source\repos\CArt\CArt\obj\Debug\netcoreapp2.1\CArt.AssemblyInfo.cs
+C:\Users\vitripathi\source\repos\CArt\CArt\obj\Debug\netcoreapp2.1\CArt.dll
+C:\Users\vitripathi\source\repos\CArt\CArt\obj\Debug\netcoreapp2.1\CArt.pdb
+C:\Users\vitripathi\source\repos\CArt\CArt\obj\Debug\netcoreapp2.1\CArt.csprojAssemblyReference.cache
